@@ -5,8 +5,8 @@ This repository contains solutions for NCERT English textbooks from Class 6 to 8
 
 ## Datasets
 - **Class 6th:** [NCERT English Class 6th](https://huggingface.co/datasets/theshivam7/NCERT-English_Class6th)
-- **Class 7th:** [Class 7 English](https://huggingface.co/datasets/Tejasgawas/class7english)
-- **Class 8th:** [Class 8th English](https://huggingface.co/datasets/herambpatil2004/Class8th)
+- **Class 7th:** [NCERT English Class 7th](https://huggingface.co/datasets/Tejasgawas/class7english)
+- **Class 8th:** [NCERT English Class 8th](https://huggingface.co/datasets/herambpatil2004/Class8th)
 
 ## Setup
 
